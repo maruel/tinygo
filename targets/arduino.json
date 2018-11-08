@@ -1,6 +1,6 @@
 {
 	"llvm-target": "avr-atmel-none",
-	"build-tags": ["arduino", "atmega328p", "atmega", "avr5", "avr", "js", "wasm"],
+	"build-tags": ["arduino", "atmega328p", "atmega", "avr5", "avr"],
 	"linker": "avr-gcc",
 	"pre-link-args": [
 		"-nostartfiles",
